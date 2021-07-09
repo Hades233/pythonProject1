@@ -13,6 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-#加一段备注
+#加一段备注提供
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
